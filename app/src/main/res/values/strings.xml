@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- App Name -->
+    <string name="app_name">Coop Demo 2 + Demo 3 Extension</string>
+
+    <!-- Picsum Section -->
+    <string name="demo_title">Picsum Image Browser</string>
+    <string name="demo_subtitle">Demo 2: API call, ViewModel state, loading &amp; errors</string>
+    <string name="hint_author">Filter by author (optional)</string>
+    <string name="button_fetch">Fetch Image</string>
+    <string name="button_open">Open Source</string>
+
+    <string name="image_desc">Downloaded image</string>
+    <string name="toast_loaded">Image loaded</string>
+    <string name="toast_failed">Failed to load image</string>
+    <string name="error_generic">Something went wrong</string>
+    <string name="empty_state">Tap “Fetch Image” to load from the API</string>
+
+    <!-- Anime Quote Section -->
+    <string name="quote_title">Anime Quote Generator</string>
+    <string name="quote_button">Fetch Quote</string>
+    <string name="quote_error">Failed to load quote</string>
+
+    <!-- Demo 1 / Toast -->
+    <string name="show_toast_button">Show Custom Toast</string>
+    <string name="custom_toast_message">Hello from Custom Toast!</string>
+    <string name="toast_icon">Toast Icon</string>
+
+</resources>
